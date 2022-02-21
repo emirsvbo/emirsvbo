@@ -1,4 +1,4 @@
-### hey there. i wont mind you spectating my life's work :)
+### hey there. i am a script kid!
 
 <!--
 **6senit/6senit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
