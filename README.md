@@ -1,4 +1,3 @@
-### hey there. i am a dev too!
+### hey there. 
 
-
-im currently learning python and web development.
+currently im improving my web development, feel free to visit my work at krotesq.com
