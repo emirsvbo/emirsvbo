@@ -1,3 +1,3 @@
-### hey there. 
+### hello there. 
 
 currently focused on web design.
